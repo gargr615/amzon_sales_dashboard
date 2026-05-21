@@ -110,6 +110,7 @@ Explore the interactive dashboard.
 ## 🤝 Contribution
 
 Contributions are welcome! 🎉
+
 If you’d like to improve the dashboard or add new features:
 
 Fork the repo
