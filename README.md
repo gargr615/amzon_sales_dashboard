@@ -97,7 +97,7 @@ Idaho
 
 Clone the repository:
 
-git clone https://github.com/gargr615/am.git
+git clone https://github.com/gargr615/amazon_sales_dashboard.git
 
 Open the .pbix file in Power BI Desktop.
 
